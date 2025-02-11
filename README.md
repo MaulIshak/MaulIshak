@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/maulishak)
-- [Twitter](https://twitter.com/maulishak)
+- [LinkedIn](https://www.linkedin.com/in/maulana-ishak-8a052932b)
+- [Instagram](https://www.instagram.com/maulanaishak_123/)
 
 Thanks for stopping by! Have a great day! 😊
