@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm MaulIshak 👋
 
-<!--
-**MaulIshak/MaulIshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects. Here's a little bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning advanced JavaScript frameworks.
+- ⚡ Fun fact: I love playing chess and watching animes in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![MaulIshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulIshak&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulIshak&layout=compact&theme=radical)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/maulishak)
+- [Twitter](https://twitter.com/maulishak)
+
+Thanks for stopping by! Have a great day! 😊
