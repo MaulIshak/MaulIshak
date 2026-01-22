@@ -1,3 +1,6 @@
+## こんにちは！👋 I'm Maulana.
+![Heanna Sumire](https://media1.tenor.com/m/fTHgn8Q2pY4AAAAd/sumire-heanna-love-live.gif)
+
 ## GitHub Stats
 
 ![MaulIshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulIshak&show_icons=true&theme=radical)
