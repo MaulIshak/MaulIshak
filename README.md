@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ## こんにちは！👋 I'm Maulana.
 ![Heanna Sumire](https://media1.tenor.com/m/fTHgn8Q2pY4AAAAd/sumire-heanna-love-live.gif)
