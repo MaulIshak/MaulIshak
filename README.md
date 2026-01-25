@@ -1,8 +1,20 @@
-<div align="center">
+<div>
 
 ## こんにちは！👋 I'm Maulana.
-![Heanna Sumire](https://media1.tenor.com/m/fTHgn8Q2pY4AAAAd/sumire-heanna-love-live.gif)
 
+<img
+  src="https://media1.tenor.com/m/fTHgn8Q2pY4AAAAd/sumire-heanna-love-live.gif"
+  width="300"
+  align="right"
+/>
+
+### About Me
+
+Informatics Engineering student focused on  
+**systems programming**, **backend development**,  
+and **game development**. Experienced in **full-stack architectures**,  
+core algorithm implementation, and  
+technical team coordination.
 
 
 ## Skills
