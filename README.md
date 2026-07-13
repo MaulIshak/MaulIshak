@@ -38,11 +38,11 @@ technical team coordination.
 
 ## GitHub Stats
 
-![MaulIshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulIshak&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MaulIshak&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=MaulIshak&include_all_commits=true&theme=tokyonight)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaulIshak&layout=compact&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MaulIshak&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=MaulIshak&langs_count=4&theme=algolia)
 
 ## Connect with me
 
