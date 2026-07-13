@@ -11,9 +11,9 @@
 ### About Me
 
 Informatics Engineering student focused on  
-**systems programming**, **backend development**,  
-and **game development**. Experienced in **full-stack architectures**,  
-core algorithm implementation, and  
+**systems programming**, **Web development**,  
+and **game development**. Experienced in **full-stack Web Development**,  
+**Game Architecture**, and  
 technical team coordination.
 
 
